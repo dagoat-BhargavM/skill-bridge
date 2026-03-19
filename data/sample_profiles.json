@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Priya Sharma",
+    "skills": ["Python", "SQL", "Git", "Flask", "HTML/CSS"],
+    "experience_level": "entry",
+    "target_role": "Cloud Engineer",
+    "projects": [
+      { "description": "Built a microservices REST API backend with Flask, deployed on AWS EC2 with basic IAM roles" },
+      { "description": "Developed a web scraper in Python that collected data and stored results in PostgreSQL" }
+    ],
+    "learning_timeline": { "mode": "deadline", "days_available": 14 }
+  },
+  {
+    "name": "Rahul Menon",
+    "skills": ["JavaScript", "React", "Node.js", "MongoDB", "REST APIs"],
+    "experience_level": "mid",
+    "target_role": "Full Stack Developer",
+    "projects": [
+      { "description": "Led redesign of a React component library, improving render performance by 40% using memoization" },
+      { "description": "Built and maintained a Node.js backend API with JWT auth serving 10k+ daily active users" }
+    ],
+    "learning_timeline": { "mode": "relaxed", "days_available": null }
+  },
+  {
+    "name": "Aisha Kapoor",
+    "skills": ["Python", "Pandas", "NumPy", "SQL", "Git", "Jupyter"],
+    "experience_level": "entry",
+    "target_role": "Machine Learning Engineer",
+    "projects": [
+      { "description": "Trained a sentiment analysis classifier using scikit-learn on a Kaggle dataset, achieved 82% accuracy" },
+      { "description": "Built a data cleaning pipeline in Python that processed CSV exports and loaded results into PostgreSQL" }
+    ],
+    "learning_timeline": { "mode": "deadline", "days_available": 30 }
+  }
+]

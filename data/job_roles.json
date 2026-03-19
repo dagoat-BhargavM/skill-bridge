@@ -1,0 +1,212 @@
+{
+  "Backend Engineer": {
+    "category": "Software Engineering",
+    "required_skills": ["python", "rest apis", "sql", "git", "linux", "docker"],
+    "preferred_skills": ["redis", "celery", "kafka", "grpc", "postgresql", "testing"],
+    "certifications": []
+  },
+  "Frontend Engineer": {
+    "category": "Software Engineering",
+    "required_skills": ["javascript", "react", "html/css", "git", "rest apis", "typescript"],
+    "preferred_skills": ["redux", "webpack", "testing", "accessibility", "figma", "nextjs"],
+    "certifications": []
+  },
+  "Full Stack Developer": {
+    "category": "Software Engineering",
+    "required_skills": ["javascript", "react", "nodejs", "sql", "git", "rest apis", "html/css"],
+    "preferred_skills": ["docker", "typescript", "mongodb", "redis", "testing", "ci/cd"],
+    "certifications": []
+  },
+  "Mobile Developer": {
+    "category": "Software Engineering",
+    "required_skills": ["react native", "javascript", "git", "rest apis", "html/css"],
+    "preferred_skills": ["typescript", "redux", "ios", "android", "testing", "firebase"],
+    "certifications": []
+  },
+  "Game Developer": {
+    "category": "Software Engineering",
+    "required_skills": ["c++", "unity", "mathematics", "git", "game engines", "c#"],
+    "preferred_skills": ["unreal engine", "blender", "opengl", "multiplayer networking", "shaders", "physics simulation"],
+    "certifications": []
+  },
+  "Embedded Systems Engineer": {
+    "category": "Software Engineering",
+    "required_skills": ["c", "c++", "microcontrollers", "rtos", "linux", "electronics", "git"],
+    "preferred_skills": ["arm", "fpga", "communication protocols", "python", "pcb design", "debugging"],
+    "certifications": []
+  },
+  "Systems Programmer": {
+    "category": "Software Engineering",
+    "required_skills": ["c", "c++", "linux", "operating systems", "git", "algorithms", "memory management"],
+    "preferred_skills": ["rust", "assembly", "kernel development", "networking", "debugging", "profiling"],
+    "certifications": []
+  },
+  "Blockchain Developer": {
+    "category": "Software Engineering",
+    "required_skills": ["solidity", "ethereum", "web3", "javascript", "smart contracts", "git", "cryptography"],
+    "preferred_skills": ["hardhat", "truffle", "ipfs", "defi", "golang", "rust", "testing"],
+    "certifications": []
+  },
+  "Cloud Engineer": {
+    "category": "Cloud & Infrastructure",
+    "required_skills": ["aws", "linux", "docker", "kubernetes", "terraform", "networking", "python"],
+    "preferred_skills": ["ci/cd", "monitoring", "security fundamentals", "serverless", "bash"],
+    "certifications": ["AWS Solutions Architect", "GCP Associate Cloud Engineer"]
+  },
+  "DevOps Engineer": {
+    "category": "Cloud & Infrastructure",
+    "required_skills": ["linux", "docker", "kubernetes", "ci/cd", "git", "bash", "monitoring"],
+    "preferred_skills": ["terraform", "ansible", "aws", "prometheus", "grafana", "python"],
+    "certifications": ["CKA - Certified Kubernetes Administrator"]
+  },
+  "Site Reliability Engineer": {
+    "category": "Cloud & Infrastructure",
+    "required_skills": ["linux", "python", "monitoring", "docker", "kubernetes", "networking", "ci/cd"],
+    "preferred_skills": ["terraform", "prometheus", "grafana", "incident management", "bash"],
+    "certifications": []
+  },
+  "Network Engineer": {
+    "category": "Cloud & Infrastructure",
+    "required_skills": ["networking", "cisco", "routing", "switching", "tcp/ip", "linux", "firewalls"],
+    "preferred_skills": ["network security", "vpn", "sdn", "python", "automation", "cloud networking"],
+    "certifications": ["CCNA", "CompTIA Network+"]
+  },
+  "IT Systems Administrator": {
+    "category": "Cloud & Infrastructure",
+    "required_skills": ["linux", "windows server", "networking", "active directory", "bash", "virtualization"],
+    "preferred_skills": ["powershell", "aws", "monitoring", "ansible", "backup solutions", "git"],
+    "certifications": ["CompTIA A+", "Microsoft MCSA"]
+  },
+  "Data Engineer": {
+    "category": "Data",
+    "required_skills": ["python", "sql", "spark", "airflow", "data pipelines", "git"],
+    "preferred_skills": ["kafka", "dbt", "snowflake", "bigquery", "aws", "docker"],
+    "certifications": ["Google Professional Data Engineer"]
+  },
+  "Data Scientist": {
+    "category": "Data",
+    "required_skills": ["python", "statistics", "machine learning", "pandas", "numpy", "sql", "data visualization", "git"],
+    "preferred_skills": ["r", "pytorch", "tensorflow", "deep learning", "feature engineering", "jupyter", "scikit-learn"],
+    "certifications": ["IBM Data Science Professional"]
+  },
+  "Data Analyst": {
+    "category": "Data",
+    "required_skills": ["sql", "python", "excel", "data visualization", "statistics", "git"],
+    "preferred_skills": ["tableau", "power bi", "r", "pandas", "jupyter", "reporting"],
+    "certifications": ["Google Data Analytics Certificate"]
+  },
+  "Business Intelligence Analyst": {
+    "category": "Data",
+    "required_skills": ["sql", "data visualization", "excel", "business intelligence", "tableau", "reporting"],
+    "preferred_skills": ["power bi", "python", "data warehousing", "dax", "looker", "etl processes"],
+    "certifications": ["Microsoft Power BI Data Analyst"]
+  },
+  "Database Administrator": {
+    "category": "Data",
+    "required_skills": ["sql", "postgresql", "database design", "linux", "performance tuning", "backup and recovery"],
+    "preferred_skills": ["oracle", "mongodb", "redis", "replication", "query optimization", "python"],
+    "certifications": ["Oracle Database DBA", "Microsoft SQL Server"]
+  },
+  "Machine Learning Engineer": {
+    "category": "AI/ML",
+    "required_skills": ["python", "machine learning", "sql", "git", "numpy", "pandas"],
+    "preferred_skills": ["pytorch", "tensorflow", "mlflow", "docker", "aws", "feature engineering"],
+    "certifications": ["AWS Machine Learning Specialty"]
+  },
+  "AI Research Engineer": {
+    "category": "AI/ML",
+    "required_skills": ["python", "deep learning", "pytorch", "mathematics", "machine learning", "git", "research skills"],
+    "preferred_skills": ["tensorflow", "distributed training", "cuda", "mlflow", "hugging face", "paper implementation"],
+    "certifications": []
+  },
+  "Computer Vision Engineer": {
+    "category": "AI/ML",
+    "required_skills": ["python", "opencv", "deep learning", "pytorch", "machine learning", "git", "numpy"],
+    "preferred_skills": ["tensorflow", "cuda", "image processing", "object detection", "data augmentation", "docker"],
+    "certifications": []
+  },
+  "NLP Engineer": {
+    "category": "AI/ML",
+    "required_skills": ["python", "nlp", "deep learning", "pytorch", "machine learning", "git", "hugging face"],
+    "preferred_skills": ["transformers", "bert", "llms", "text processing", "spacy", "tensorflow"],
+    "certifications": []
+  },
+  "Robotics Engineer": {
+    "category": "AI/ML",
+    "required_skills": ["python", "c++", "ros", "mathematics", "control systems", "git", "sensors"],
+    "preferred_skills": ["matlab", "machine learning", "computer vision", "embedded systems", "kinematics", "simulation"],
+    "certifications": []
+  },
+  "Security Engineer": {
+    "category": "Cybersecurity",
+    "required_skills": ["networking", "linux", "python", "security fundamentals", "git", "scripting"],
+    "preferred_skills": ["siem", "penetration testing", "aws", "incident response", "cryptography"],
+    "certifications": ["CompTIA Security+", "CISSP"]
+  },
+  "Penetration Tester": {
+    "category": "Cybersecurity",
+    "required_skills": ["linux", "networking", "python", "ethical hacking", "penetration testing", "security fundamentals"],
+    "preferred_skills": ["metasploit", "burp suite", "kali linux", "web vulnerabilities", "scripting", "cryptography"],
+    "certifications": ["CEH - Certified Ethical Hacker", "OSCP"]
+  },
+  "QA Engineer": {
+    "category": "Quality Assurance",
+    "required_skills": ["testing", "test automation", "selenium", "git", "rest apis", "python"],
+    "preferred_skills": ["cypress", "jest", "pytest", "postman", "ci/cd", "performance testing"],
+    "certifications": ["ISTQB Foundation Level"]
+  },
+  "Automation Test Engineer": {
+    "category": "Quality Assurance",
+    "required_skills": ["test automation", "selenium", "python", "git", "rest apis", "ci/cd", "api testing"],
+    "preferred_skills": ["cypress", "junit", "testng", "performance testing", "docker", "javascript"],
+    "certifications": ["ISTQB Advanced Test Automation Engineer"]
+  },
+  "IoT Engineer": {
+    "category": "Emerging Tech",
+    "required_skills": ["embedded systems", "c", "python", "mqtt", "networking", "microcontrollers", "linux"],
+    "preferred_skills": ["aws iot", "rtos", "bluetooth", "edge computing", "docker", "git", "communication protocols"],
+    "certifications": []
+  },
+  "AR/VR Developer": {
+    "category": "Emerging Tech",
+    "required_skills": ["unity", "c#", "3d mathematics", "git", "openxr", "rest apis"],
+    "preferred_skills": ["unreal engine", "webxr", "blender", "threejs", "javascript", "spatial computing"],
+    "certifications": []
+  },
+  "Technical Product Manager": {
+    "category": "Product & Management",
+    "required_skills": ["product management", "agile", "user stories", "sql", "stakeholder management", "roadmapping"],
+    "preferred_skills": ["jira", "figma", "a/b testing", "python", "metrics", "data visualization"],
+    "certifications": ["Product School CPM", "PMI-ACP"]
+  },
+  "Business Analyst": {
+    "category": "Product & Management",
+    "required_skills": ["business analysis", "requirements gathering", "sql", "excel", "documentation", "process modeling"],
+    "preferred_skills": ["jira", "tableau", "agile", "bpmn", "uml", "power bi"],
+    "certifications": ["CBAP", "PMI-PBA"]
+  },
+  "Scrum Master": {
+    "category": "Product & Management",
+    "required_skills": ["agile", "scrum", "sprint planning", "jira", "team facilitation", "backlog management"],
+    "preferred_skills": ["kanban", "safe", "coaching", "confluence", "retrospectives", "product management"],
+    "certifications": ["CSM - Certified Scrum Master", "PSM I - Professional Scrum Master"]
+  },
+  "IT Consultant": {
+    "category": "Product & Management",
+    "required_skills": ["networking", "sql", "project management", "documentation", "stakeholder management", "linux"],
+    "preferred_skills": ["aws", "erp systems", "itil", "business analysis", "python", "presentation skills"],
+    "certifications": ["ITIL 4 Foundation", "PMP"]
+  },
+  "UX/UI Designer": {
+    "category": "Design",
+    "required_skills": ["figma", "user research", "wireframing", "prototyping", "design systems", "usability testing"],
+    "preferred_skills": ["adobe xd", "html/css", "accessibility", "animation", "sketch", "javascript"],
+    "certifications": ["Google UX Design Certificate"]
+  },
+  "Solutions Architect": {
+    "category": "Architecture",
+    "required_skills": ["aws", "system design", "networking", "sql", "docker", "security fundamentals", "linux"],
+    "preferred_skills": ["kubernetes", "terraform", "microservices", "rest apis", "event driven architecture", "python"],
+    "certifications": ["AWS Solutions Architect Professional", "GCP Professional Cloud Architect"]
+  }
+}
