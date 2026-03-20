@@ -6,6 +6,12 @@
 
 ---
 
+## Video
+
+🎥 [Link to screen recording — Vimeo]: https://vimeo.com/1175417238/cce4f0f97e?share=copy&fl=sv&fe=ci
+
+---
+
 ## Problem
 
 Students and early-career professionals face a "skills gap" — they know what role they want, but they don't know exactly what's missing or where to focus first. Job descriptions list 15+ requirements, certification sites are overwhelming, and there's no single tool that says: "Here's where you are, here's the gap, and here's your fastest path forward."
@@ -129,12 +135,6 @@ The fallback uses a local `job_roles.json` taxonomy with rule-based keyword matc
 - Skills taxonomy covers 35 roles across 9 categories (Software Engineering, Cloud, Data, AI/ML, Cybersecurity, QA, Emerging Tech, Product, Design); niche or emerging skills may not match
 - Gemini free tier has rate limits — fallback ensures the app still works
 - No auth means profiles are not user-scoped
-
----
-
-## Video
-
-🎥 [Link to screen recording — Vimeo]: https://vimeo.com/1175417238/cce4f0f97e?share=copy&fl=sv&fe=ci
 
 ---
 
