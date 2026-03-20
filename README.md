@@ -134,7 +134,7 @@ The fallback uses a local `job_roles.json` taxonomy with rule-based keyword matc
 
 ## Video
 
-🎥 [Link to screen recording — YouTube/Vimeo] *(add before submission)*
+🎥 [Link to screen recording — Vimeo]: https://vimeo.com/1175417238/cce4f0f97e?share=copy&fl=sv&fe=ci
 
 ---
 
